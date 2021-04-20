@@ -1,0 +1,19 @@
+.timer {
+  width: 200px;
+  padding: 20px;
+  border: 7px solid #13353a;
+  border-radius: 50px;
+}
+
+.timer.red {
+  color: rgb(165, 13, 13);
+}
+
+.timer-display {
+  font-size: 50px;
+}
+
+.timer-label {
+  margin: 0;
+  margin-bottom: 10px;
+}

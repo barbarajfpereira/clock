@@ -1,0 +1,27 @@
+.settings {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.break,
+.session {
+  flex: 1;
+}
+
+span.length {
+  display: inline-block;
+  width: 40px;
+}
+
+button.increment,
+button.decrement,
+button.play-pause,
+button.refresh {
+  color: #fff;
+  outline: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
